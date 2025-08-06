@@ -38,5 +38,6 @@ Aproach:
 - remove each of these card from the list
 - returning True if all cards can be grouped correctly; False if fail to form a full group
 """
-    
+
+# TODO: optimize time complexity
 
