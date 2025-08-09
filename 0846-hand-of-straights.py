@@ -31,7 +31,7 @@ Time complexity: O(n^2)
 Space complexity: O(n)
 - hand = sorted(hand) creates a new list, so it's aO(n) extra space
 
-Aproach:
+Approach:
 - brute force greedy
 - sorting the hand list
 - take the smallest card and try to form a group of size groupSize starting from the card
